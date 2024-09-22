@@ -7,7 +7,7 @@ class Solution:
         Move two pointers towards each other, swapping elements as they go.
         Does not return anything, modifies s in-place instead.
         
-        Time: O(N) - Pointers travel through the list.
+        Time: O(n) - Pointers travel through the list.
         Space: O(1) - No additional data structures used.
         """
         # Move two pointers towards each other, swapping elements as they go.
